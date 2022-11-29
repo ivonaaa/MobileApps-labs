@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ORWMA_lv5</string>
+    <string name="UnesiButton">Unesi</string>
+    <string name="ip">Ime i prezime</string>
+    <string name="opis">Opis</string>
+    <string name="defaultname">Text view</string>
+    <string name="izračunajButton">Izračunaj</string>
+    <string name="hight">Visina</string>
+    <string name="weight">Težina</string>
+
+
+</resources>
