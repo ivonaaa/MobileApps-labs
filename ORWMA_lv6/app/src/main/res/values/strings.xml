@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ORWMA_lv6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="naprijedButton">Naprijed</string>
+    <string name="radioButton1">Borna Barišić</string>
+    <string name="radioButton2">Luka Modrić</string>
+    <string name="radioButton3">Mateo Kovačić</string>
+    <string name="radioButton4">Bruno Petković</string>
+    <string name="nazadButton">Nazad</string>
+    <string name="description">Najbolji nogometaš Hrvatske\nnogometne reprezentacije je:</string>
+</resources>
