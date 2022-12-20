@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665945353001",
+    "project_id": "orwmalv8-perko",
+    "storage_bucket": "orwmalv8-perko.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665945353001:android:9bd448998dc0741fce2538",
+        "android_client_info": {
+          "package_name": "com.example.orwma_lv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665945353001-eltg1ud6l3pl0mgqo7bvo9d7kee99r3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0r1CKRBsJkhJlw7pBliuKNG_xkD-P66o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665945353001-eltg1ud6l3pl0mgqo7bvo9d7kee99r3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
